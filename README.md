@@ -1,5 +1,5 @@
 <h1><div align="center">
-  Hi there, I'm <br><a href="https://ayo.so/deepseng" rel="me">Deep SenGupta</a><br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxmZmk3MzNiMzVoNDIwaG16ZjNtbGJkb253ajFobG16dndqY2gyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80">
+  Hi there, I'm <br><a href="#" rel="me">Deep SenGupta</a><br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxmZmk3MzNiMzVoNDIwaG16ZjNtbGJkb253ajFobG16dndqY2gyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80">
   <h6>Let's Connect and have a Chat!!</h6>
 </div></h1>
 
