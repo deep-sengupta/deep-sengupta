@@ -4,7 +4,7 @@
 
 <h1>Let's Connect and have a Chat!!</h1>
 
-<img src="https://github.com/user-attachments/assets/01d1d5e2-b79a-4ac5-b74d-7d9c79b5da4f" height="220" width="408" />
+<img src="https://github.com/user-attachments/assets/01d1d5e2-b79a-4ac5-b74d-7d9c79b5da4f" height="220" width="400" />
 
 ### My Blogs
 
