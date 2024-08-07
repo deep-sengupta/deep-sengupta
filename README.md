@@ -3,8 +3,13 @@
 <div align="center">
 
 <h1>Let's Connect and have a Chat!!</h1>
+<a href="https://www.linkedin.com/in/deepseng/"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
+<a href="https://www.instagram.com/deep.seng_/"><img src="https://img.shields.io/badge/Instagram-red"></a>
+<a href="https://x.com/DeepSen_Gupta"><img src="https://img.shields.io/badge/Twitter-grey"></a>
 
-<img src="https://github.com/user-attachments/assets/01d1d5e2-b79a-4ac5-b74d-7d9c79b5da4f" height="220" width="400" />
+![](https://komarev.com/ghpvc/?username=deep-sengupta)
+
+<img src="https://github.com/user-attachments/assets/01d1d5e2-b79a-4ac5-b74d-7d9c79b5da4f" height="200" width="340" />
 
 ### My Blogs
 
