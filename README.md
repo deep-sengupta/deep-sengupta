@@ -1,4 +1,4 @@
-![GitBanner](https://github.com/user-attachments/assets/e7144065-0cbb-4c3d-ab74-7de42c2a20d4)
+![GitBanner](https://github.com/user-attachments/assets/c76629ed-0bf4-4a79-b510-380c1f8e165d)
 
 <div align="center">
 
