@@ -15,4 +15,5 @@
 | Title | Published On |
 | ----- | ------------ |
 | [$350 bounty: How I Got It](https://medium.com/@deepseng/350-bounty-how-i-got-it-broken-linked-hijacked-31bfbc15ac0e) | 14 May, 2024 |
+| [The $750 API Leak: Could This Happen to You?](https://deepseng.medium.com/the-750-api-leak-could-this-happen-to-you-08fb858b4af1) | 06 Feb, 2025 |
 </div>
