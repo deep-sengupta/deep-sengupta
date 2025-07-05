@@ -1,19 +1,16 @@
 <div align="center">
 
 ![GitBanner](https://github.com/user-attachments/assets/c76629ed-0bf4-4a79-b510-380c1f8e165d)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=550&size=23&letterSpacing=0.5px&pause=1000&color=369CF7&center=true&vCenter=true&random=true&width=435&lines=Let's+connect+and+have+a+chat!!)](https://git.io/typing-svg)
-
-<a href="https://www.linkedin.com/in/deepseng/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></a>
-<a href="https://www.instagram.com/deep.seng_/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"></a>
-<a href="https://x.com/DeepSen_Gupta"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"></a>
+Just a guy with a growing obsession for cybersecurity,<br>
+diving deeper every day into the world of hacks, flaws, and digital puzzles
 <br><br>
-<img src="https://github.com/user-attachments/assets/01d1d5e2-b79a-4ac5-b74d-7d9c79b5da4f" width="350"/>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 
-### My Blogs
+<br><br>
+<h3>Connect with Me <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"></h3>
 
-| Title | Published On |
-| ----- | ------------ |
-| [$350 bounty: How I Got It](https://medium.com/@deepseng/350-bounty-how-i-got-it-broken-linked-hijacked-31bfbc15ac0e) | 14 May, 2024 |
-| [The $750 API Leak: Could This Happen to You?](https://deepseng.medium.com/the-750-api-leak-could-this-happen-to-you-08fb858b4af1) | 06 Feb, 2025 |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepseng/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DeepSen_Gupta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myselfdeepsengupta@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deepseng)
 </div>
