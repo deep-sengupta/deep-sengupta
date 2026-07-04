@@ -11,5 +11,4 @@ Turning ***"Why did this break?"*** into ***"Here's how to secure it."***
 [![Email](https://img.shields.io/badge/EMAIL-15%25_red?style=for-the-badge&labelColor=d14836&color=d14836)](mailto:heydeepsengupta@proton.me)
 [![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge)](https://medium.com/@deepseng)
 
-![snake gif](https://github.com/deep-sengupta/deep-sengupta/blob/output/github-snake-dark.svg)
 </div>
