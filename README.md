@@ -4,6 +4,6 @@
 <p>On a mission to uncover vulnerabilities and make technology more secure.</p>
 <p>I'm a Security Researcher and Bug Hunter passionate about discovering vulnerabilities and improving the security of web, API, and network systems.</p>
 
-[Behind the Screens](https://deepsecurity.in)
+[Behind the Screens](https://meetdeep.tech)
 
 </div>
