@@ -4,6 +4,5 @@
 <p>On a mission to uncover vulnerabilities and make technology more secure.</p>
 <p>I'm a Security Researcher and Bug Hunter passionate about discovering vulnerabilities and improving the security of web, API, and network systems.</p>
 
-[Behind the Screens](https://meetdeep.tech)
-
+[![Behind the Screens](https://img.shields.io/badge/Behind%20the%20Screens-↗-24292f?style=for-the-badge)](https://meetdeep.tech)
 </div>
